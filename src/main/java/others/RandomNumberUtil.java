@@ -15,7 +15,7 @@ public class RandomNumberUtil {
 
     private static final int NUMBER_QUANTITY = 15;
 
-    private static final int MAX_VALUE = 10;
+    private static final int MAX_VALUE = 100000000;
 
     public static int[] createRandomNumber(){
         int[] array = new int[NUMBER_QUANTITY];

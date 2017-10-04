@@ -35,7 +35,7 @@ public class Solution {
                     while (leftIdx < nums.length && nums[leftIdx - 1] == nums[leftIdx]) {
                         ++leftIdx;
                     }
-                    while (rightIdx > -1 && nums[rightIdx + 1] == nums[rightIdx]) {
+                    while (rightIdx > idx && nums[rightIdx + 1] == nums[rightIdx]) {
                         --rightIdx;
                     }
                 }

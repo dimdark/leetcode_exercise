@@ -1,5 +1,7 @@
 package leetCode_50;
 
+import java.util.Arrays;
+
 /**
  * @author dimdark
  */

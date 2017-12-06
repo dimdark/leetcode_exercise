@@ -6,11 +6,11 @@ Empty cells are indicated by the character '.'.
 
 You may assume that there will be only one unique solution.
 
-![数独1](file:///root/program/java/intellij_workspace/leetcode_exercises/src/main/java/leetCode_37/250px-Sudoku-by-L2G-20050714.svg.png)
+![数独1](https://github.com/dimdark/leetcode_exercise/blob/master/src/main/java/leetCode_37/250px-Sudoku-by-L2G-20050714.svg.png)
 
 A sudoku puzzle...
 
-![数独2](file:///root/program/java/intellij_workspace/leetcode_exercises/src/main/java/leetCode_37/250px-Sudoku-by-L2G-20050714_solution.svg.png)
+![数独2](https://github.com/dimdark/leetcode_exercise/blob/master/src/main/java/leetCode_37/250px-Sudoku-by-L2G-20050714_solution.svg.png)
 
 ...and its solution numbers marked in red.
 

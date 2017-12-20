@@ -6,7 +6,7 @@ Given n non-negative integers representing an elevation map where the width of e
 
 For example, given [0,1,0,2,1,0,1,3,2,1,2,1], return 6.
 
-![rainwatertrap](file:///root/program/java/intellij_workspace/leetcode_exercises/src/main/java/leetCode_42/rainwatertrap.png)
+![rainwatertrap](https://github.com/dimdark/leetcode_exercise/blob/master/src/main/java/leetCode_42/rainwatertrap.png)
 
 The above elevation map is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. 
 

@@ -1,11 +1,8 @@
-Palindrome Number
-----
-Description
-
+##Palindrome Number
+Description<br/>
 Determine whether an integer is a palindrome. Do this without extra space.
 
-Some hints:
-
+Some hints:<br/>
 1. Could negative integers be palindromes? (ie, -1)
 
 2. If you are thinking of converting the integer to string, note the restriction of using extra space.

@@ -1,5 +1,6 @@
-#### Permutations
-######Description
+Permutations
+---
+Description<br/>
 Given a collection of distinct numbers, return all possible permutations.
 
 For example,

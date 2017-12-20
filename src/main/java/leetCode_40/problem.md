@@ -1,10 +1,11 @@
-#### Combination Sum II
-######Description
+Combination Sum II
+---
+Description<br/>
 Given a collection of candidate numbers (C) and a target number (T), find all unique combinations in C where the candidate numbers sums to T.
 
 Each number in C may only be used once in the combination.
 
-Note:
+Note:<br/>
 1. All numbers (including target) will be positive integers.
 2. The solution set must not contain duplicate combinations.
 

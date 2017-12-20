@@ -1,4 +1,4 @@
-## Regular Expression Matching
+Regular Expression Matching
 ---
 Description<br/>
 Implement regular expression matching with support for '.' and '*'.

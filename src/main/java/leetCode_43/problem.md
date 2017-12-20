@@ -1,9 +1,9 @@
-####Multiply Strings
-######Description
+Multiply Strings
+---
+Description<br/>
 Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2.
 
-Note:
-
+Note:<br/>
 1. The length of both num1 and num2 is < 110.
 2. Both num1 and num2 contains only digits 0-9.
 3. Both num1 and num2 does not contain any leading zero.

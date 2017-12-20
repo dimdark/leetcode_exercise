@@ -1,5 +1,5 @@
-## Count Primes
-#### Description
-
+Count Primes
+---
+Description<br/>
 Count the number of prime numbers less than a non-negative number, n.
 

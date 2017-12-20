@@ -1,5 +1,6 @@
-##Reverse Vowels of a String
-####Description
+Reverse Vowels of a String
+---
+Description<br/>
 Write a function that takes a string as input and reverse only the vowels of a string.
 
 Example 1:
@@ -11,5 +12,5 @@ Example 2:
 Given s = "leetcode", return "leotcede".
 ```
 
-Note:
+Note:<br/>
 The vowels does not include the letter "y".

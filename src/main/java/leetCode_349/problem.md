@@ -1,5 +1,6 @@
-## Intersection of Two Arrays
-####Description
+Intersection of Two Arrays
+---
+Description<br/>
 Given two arrays, write a function to compute their intersection.
 
 Example:
@@ -7,6 +8,6 @@ Example:
 Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2].
 ```
 
-Note:
+Note:<br/>
 Each element in the result must be unique.
 The result can be in any order.

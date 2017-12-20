@@ -1,5 +1,6 @@
-#### Group Anagrams
-######Description
+Group Anagrams
+---
+Description<br/>
 Given an array of strings, group anagrams together.
 
 For example, given:

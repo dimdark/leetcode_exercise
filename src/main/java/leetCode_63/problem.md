@@ -1,5 +1,6 @@
-## Unique Paths II
-####Description
+Unique Paths II
+---
+Description
 Follow up for "Unique Paths":
 
 Now consider if some obstacles are added to the grids. How many unique paths would there be?

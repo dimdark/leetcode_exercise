@@ -1,5 +1,6 @@
-####Pow(x, n)
-######Description
+Pow(x, n)
+---
+Description<br/>
 Implement pow(x, n).
 
 Example 1:

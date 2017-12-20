@@ -1,4 +1,4 @@
-##String to Integer (atoi)
+String to Integer (atoi)
 ---
 Description<br/>
 Implement atoi to convert a string to an integer.

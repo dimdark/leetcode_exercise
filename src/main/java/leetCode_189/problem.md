@@ -1,5 +1,6 @@
-##Rotate Array
-####Description
+Rotate Array
+---
+Description<br/>
 Rotate an array of n elements to the right by k steps.
 
 For example, 

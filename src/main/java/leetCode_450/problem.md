@@ -1,6 +1,6 @@
- 
-## Delete Node in a BST
-####Description
+Delete Node in a BST
+---
+Description<br/>
 Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return the root node reference (possibly updated) of the BST.
 
 Basically, the deletion can be divided into two stages:
@@ -10,8 +10,7 @@ If the node is found, delete the node.
 
 Note: Time complexity should be O(height of tree).
 
-Example:
-
+Example:<br/>
 ```
 root = [5,3,6,2,4,null,7]
 key = 3

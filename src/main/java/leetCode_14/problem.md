@@ -1,6 +1,6 @@
-## Longest Common Prefix
-
-####Description
+Longest Common Prefix
+---
+Description<br/>
 Write a function to find the longest common prefix string amongst an array of strings.
 
 

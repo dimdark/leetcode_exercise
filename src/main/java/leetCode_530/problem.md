@@ -1,5 +1,6 @@
-## Minimum Absolute Difference in BST
-####Description
+Minimum Absolute Difference in BST
+---
+Description<br/>
 Given a binary search tree with non-negative values, find the minimum absolute difference between values of any two nodes.
 
 Example:

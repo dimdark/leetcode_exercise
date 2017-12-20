@@ -1,4 +1,4 @@
-##Longest Substring Without Repeating Characters
+Longest Substring Without Repeating Characters
 ---
 Description<br/>
 Given a string, find the length of the longest substring without repeating characters.

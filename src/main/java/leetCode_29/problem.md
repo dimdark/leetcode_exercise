@@ -1,5 +1,6 @@
-##Divide Two Integers
-####Description
+Divide Two Integers
+---
+Description<br/>
 Divide two integers without using multiplication, division and mod operator.
 
 If it is overflow, return MAX_INT.
